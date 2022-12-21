@@ -401,7 +401,7 @@ font-weight: 700;
 font-size: 20px;
 font-weight: 600;
 }
-.skill-home a {color: #ffffff;text-decoration: none;font-size: 13px;background: #055999;padding: 7px 20px;margin-top: 10px;display: inline-block;border: 1px solid #055999;}
+/*.skill-home a {color: #ffffff;text-decoration: none;font-size: 13px;background: #055999;padding: 7px 20px;margin-top: 10px;display: inline-block;border: 1px solid #055999;}*/
 .skill-home .box:hover{
 	background: #ffffff;
 	/* cursor:pointer; */
