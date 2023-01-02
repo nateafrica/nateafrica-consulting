@@ -114,17 +114,17 @@ footer a{
 a.active span{
 	color: #ff9d34 !important;
 }
-.logo{
-  color: #222;
-      margin: 19px 0 0;
-}
+/*.logo{*/
+/*  color: #222;*/
+/*      margin: 1px 0 0;*/
+/*}*/
 .logo a{
 text-decoration:none;
 }
 .logo h2 span{
   padding: 5px 7px;
   color: #ff9d34;
-}   
+}
 .menu-area{
     position:relative;
     background: #fff;
