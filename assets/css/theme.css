@@ -108,13 +108,13 @@ header.main-header {
 }
 .mainNav ul{
 	background:transparent;
-	margin-bottom: -1px;
+	/*margin-bottom: -1px;*/
 }
 .mainNav ul li a{
 	color: #fff;
 	display: block;
 	font-size: 16px;
-	padding: 31px 15px;
+	padding: 60px 15px;
 	text-transform: capitalize;
 	font-weight: 600;
 	line-height: normal;
