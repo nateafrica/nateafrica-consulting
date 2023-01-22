@@ -1371,7 +1371,9 @@ ul.price-options li{
   width: 100%;
   background:#fff;
 }
-
+.wt-center{
+    padding-left: 32%;
+}
 .wt-section-top {
   padding-top: 6.25rem;
 }
